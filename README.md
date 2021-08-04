@@ -1,7 +1,7 @@
 # DOOM-Compressor
 Original plugin by Mick Gordon, I just reverse-engineered a version of that plugin.
 I am no experienced programmer and completely new to C++ and Juce, so don't expect any magic from me; I just bandaided some preexisting code for (multiband) compression together and named it my DOOM Compressor.
-When loaded in Cubase, the plugin occasionally crashes the whole DAW, so there's definitely something wrong.
+When loaded in Cubase, the plugin occasionally crashes the whole DAW, so there's definitely something wrong. Also, when you close the plugin window and reopen it, the settings are reset.
 
 If you look into my spaghetti code and happen to see how this plugin can be improved in both function and stability, please let me know.
 
